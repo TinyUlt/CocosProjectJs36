@@ -13,7 +13,7 @@ var HelloWorldLayer = cc.Layer.extend({
         var size = cc.winSize;
 
         var mainscene = ccs.load(res.MainScene_json);
-        this.addChild(mainscene.node);
+        //this.addChild(mainscene.node);
         
          this.socket = io.connect();
  
@@ -28,8 +28,21 @@ var HelloWorldLayer = cc.Layer.extend({
         });
 
         this.socket.emit('startTimeUpdate');
-        this.socket.on('timeUpdate', function() {
+        
+        
+        //var origin = cc.director.getVisibleOrigin(), size = cc.director.getVisibleSize();
+
+
+        var statusLabel = new cc.LabelTTF("waiting!", "", 20);
+        statusLabel.setPosition(0 + size.width / 2, 0 + size.height - 90);
+        this.addChild(statusLabel);
+
+        this.socket.on('timeUpdate', function(myDate) {
+            
             cc.log("123");
+            statusLabel.setString(myDate);
+            statusLabel.runAction(cc.sequence(cc.fadeIn(0.1), cc.delayTime(0.5), cc.fadeOut(0.4)));
+
         });
 
         return true;

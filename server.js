@@ -8,7 +8,7 @@ var express = require('express'),
 app.use('/', express.static(__dirname + '/www'));
 //bind the server to the 80 port
 //server.listen(3000);//for local test
-server.listen(process.env.PORT || 8000);//publish to heroku
+server.listen(process.env.PORT || 8001);//publish to heroku
 //server.listen(process.env.OPENSHIFT_NODEJS_PORT || 3000);//publish to openshift
 //console.log('server started on port'+process.env.PORT || 3000);
 //handle the socket
@@ -43,7 +43,9 @@ io.sockets.on('connection', function(socket) {
 
     socket.on('startTimeUpdate', function() {
         setInterval(function (){
-            socket.emit('timeUpdate');
+            var myDate = new Date();
+            var strTime =myDate.getFullYear() + "年" + myDate.getMonth() + "月" + myDate.getDay() + "日" + myDate.getSeconds().toString() + "秒";
+            socket.emit('timeUpdate', strTime);
         },1000);//1000为1秒钟
     });
     //user leaves
