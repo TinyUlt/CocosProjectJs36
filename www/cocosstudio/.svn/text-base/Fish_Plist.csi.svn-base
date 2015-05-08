@@ -1,0 +1,49 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="Fish_Plist" ID="824e958a-3ebb-485f-ab1c-997f6536704f" Version="2.2.1.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="fish/icon_cheqiyu.png" />
+      <FilePathData Path="fish/icon_denglongyu.png" />
+      <FilePathData Path="fish/icon_dianmanyu.png" />
+      <FilePathData Path="fish/icon_diaoyu.png" />
+      <FilePathData Path="fish/icon_dinianyu.png" />
+      <FilePathData Path="fish/icon_douyu.png" />
+      <FilePathData Path="fish/icon_douyu_red.png" />
+      <FilePathData Path="fish/icon_fangyu.png" />
+      <FilePathData Path="fish/icon_g_shayu.png" />
+      <FilePathData Path="fish/icon_gaiputi.png" />
+      <FilePathData Path="fish/icon_haigui.png" />
+      <FilePathData Path="fish/icon_haigui_ice.png" />
+      <FilePathData Path="fish/icon_hetun.png" />
+      <FilePathData Path="fish/icon_hujing.png" />
+      <FilePathData Path="fish/icon_jianyu.png" />
+      <FilePathData Path="fish/icon_jinqiangyu.png" />
+      <FilePathData Path="fish/icon_jinqiangyu_gold.png" />
+      <FilePathData Path="fish/icon_jinqiangyu_red.png" />
+      <FilePathData Path="fish/icon_shayu.png" />
+      <FilePathData Path="fish/icon_shiziyu.png" />
+      <FilePathData Path="fish/icon_tianshiyu.png" />
+      <FilePathData Path="fish/icon_xiaochouyu.png" />
+      <FilePathData Path="fish/icon_xiaohuangyu.png" />
+      <FilePathData Path="fish/icon_yingzuiyu.png" />
+      <FilePathData Path="fish/icon_caijinfeng.png" />
+      <FilePathData Path="fish/icon_caishen.png" />
+      <FilePathData Path="fish/icon_jingchan.png" />
+      <FilePathData Path="fish/icon_jingubang.png" />
+      <FilePathData Path="fish/icon_likui.png" />
+      <FilePathData Path="fish/icon_long.png" />
+      <FilePathData Path="fish/icon_longwang.png" />
+      <FilePathData Path="fish/icon_meirenyu.png" />
+      <FilePathData Path="fish/icon_nezha.png" />
+      <FilePathData Path="fish/icon_qiling.png" />
+      <FilePathData Path="fish/icon_sitousha.png" />
+      <FilePathData Path="fish/icon_sunwukong.png" />
+      <FilePathData Path="fish/icon_yaoqianshu.png" />
+      <FilePathData Path="fish/icon_yudi.png" />
+      <FilePathData Path="fish/icon_zhangyu.png" />
+      <FilePathData Path="fish/icon_bianfuyu_orange.png" />
+      <FilePathData Path="fish/icon_bianfuyu.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

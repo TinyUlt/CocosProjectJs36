@@ -1,0 +1,17 @@
+<Solution>
+  <PropertyGroup Name="Fishing3D_3.4" Version="2.2.6.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Folder Name="res">
+          <Image Name="rank_btn_close.png" />
+          <Image Name="rank_btn_close_clcik.png" />
+          <Image Name="rank_btn_close_gray.png" />
+        </Folder>
+        <Image Name="help.png" />
+        <Image Name="forzen.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

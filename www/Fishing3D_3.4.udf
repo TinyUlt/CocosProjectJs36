@@ -1,0 +1,41 @@
+<UserData>
+  <OpenedDocuments>
+    <FilePathData Path="GameScene.csd" />
+    <FilePathData Path="Plist.csi" />
+    <FilePathData Path="Fish_Plist.csi" />
+    <FilePathData Path="LoadingScene.csd" />
+    <FilePathData Path="SelectScene.csd" />
+    <FilePathData Path="StartScene.csd" />
+    <FilePathData Path="TestScene.csd" />
+  </OpenedDocuments>
+  <ActiveDocument Path="GameScene.csd" />
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.Fishing3D34" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="Fishing3D_3.4 iOS" />
+        <iOS_BundleID Value="iPhone Developer: wu hongxing (55DB969FPL)" />
+        <Platform Value="Android" />
+        <FrameworkVersion Value="cocos2d-x-3.6" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

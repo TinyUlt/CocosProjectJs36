@@ -1,0 +1,34 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="TestScene" ID="b6f32b77-1985-4087-a65f-118e4c4cc2da" Version="2.2.1.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" FrameEvent="" Tag="73" ctype="SingleNodeObjectData">
+        <Position X="0.0000" Y="0.0000" />
+        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+        <AnchorPoint />
+        <CColor A="255" R="255" G="255" B="255" />
+        <Size X="960.0000" Y="640.0000" />
+        <PrePosition X="0.0000" Y="0.0000" />
+        <PreSize X="0.0000" Y="0.0000" />
+        <Children>
+          <NodeObjectData Name="Button_1" ActionTag="-513008902" FrameEvent="" Tag="74" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="825.5936" RightMargin="34.4064" TopMargin="44.9783" BottomMargin="495.0217" TouchEnable="True" FontSize="14" ButtonText="Button" Scale9Enable="True" Scale9Width="46" Scale9Height="36" ctype="ButtonObjectData">
+            <Position X="875.5936" Y="545.0217" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="100.0000" Y="100.0000" />
+            <PrePosition X="0.9121" Y="0.8516" />
+            <PreSize X="0.1042" Y="0.1563" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" />
+            <PressedFileData Type="Default" Path="Default/Button_Press.png" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" />
+          </NodeObjectData>
+        </Children>
+      </ObjectData>
+    </Content>
+    <CameraPosition ValueX="0.0000" ValueY="5.0000" ValueZ="-1.0000" />
+    <CameraRotation ValueX="0.0000" ValueY="0.0000" ValueZ="0.0000" />
+  </Content>
+</GameProjectFile>

@@ -1,0 +1,1174 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="GameScene" ID="a745c3bb-93e8-4496-a968-16fe41d47c07" Version="2.2.1.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" FrameEvent="" Tag="22" RightMargin="-960.0000" TopMargin="-640.0000" ctype="SingleNodeObjectData">
+        <Position X="0.0000" Y="0.0000" />
+        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+        <AnchorPoint />
+        <CColor A="255" R="255" G="255" B="255" />
+        <Size X="960.0000" Y="640.0000" />
+        <PrePosition X="0.0000" Y="0.0000" />
+        <PreSize X="0.0000" Y="0.0000" />
+        <Children>
+          <NodeObjectData Name="lock_chair_id_1" ActionTag="-1928545926" FrameEvent="" Tag="84" LeftMargin="19.2572" RightMargin="865.7428" TopMargin="951.2592" BottomMargin="-386.2592" Scale9Width="75" Scale9Height="75" ctype="ImageViewObjectData">
+            <Position X="56.7572" Y="-348.7592" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="75.0000" Y="75.0000" />
+            <PrePosition X="0.0591" Y="-0.5449" />
+            <PreSize X="0.0781" Y="0.1172" />
+            <FileData Type="MarkedSubImage" Path="res/lock_chair_id_1.png" Plist="Plist.plist" />
+          </NodeObjectData>
+          <NodeObjectData Name="lock_chair_id_2" ActionTag="-417397050" FrameEvent="" Tag="87" LeftMargin="116.5900" RightMargin="768.4100" TopMargin="951.5923" BottomMargin="-386.5923" Scale9Width="75" Scale9Height="75" ctype="ImageViewObjectData">
+            <Position X="154.0900" Y="-349.0923" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="75.0000" Y="75.0000" />
+            <PrePosition X="0.1605" Y="-0.5455" />
+            <PreSize X="0.0781" Y="0.1172" />
+            <FileData Type="MarkedSubImage" Path="res/lock_chair_id_2.png" Plist="Plist.plist" />
+          </NodeObjectData>
+          <NodeObjectData Name="lock_chair_id_3" ActionTag="1890283290" FrameEvent="" Tag="88" LeftMargin="207.9224" RightMargin="677.0776" TopMargin="953.9254" BottomMargin="-388.9254" Scale9Width="75" Scale9Height="75" ctype="ImageViewObjectData">
+            <Position X="245.4224" Y="-351.4254" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="75.0000" Y="75.0000" />
+            <PrePosition X="0.2556" Y="-0.5491" />
+            <PreSize X="0.0781" Y="0.1172" />
+            <FileData Type="MarkedSubImage" Path="res/lock_chair_id_3.png" Plist="Plist.plist" />
+          </NodeObjectData>
+          <NodeObjectData Name="lock_chair_id_4" ActionTag="-1665148676" FrameEvent="" Tag="89" LeftMargin="299.5907" RightMargin="585.4093" TopMargin="953.9255" BottomMargin="-388.9255" Scale9Width="75" Scale9Height="75" ctype="ImageViewObjectData">
+            <Position X="337.0907" Y="-351.4255" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="75.0000" Y="75.0000" />
+            <PrePosition X="0.3511" Y="-0.5491" />
+            <PreSize X="0.0781" Y="0.1172" />
+            <FileData Type="MarkedSubImage" Path="res/lock_chair_id_4.png" Plist="Plist.plist" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_setting" ActionTag="-1011631570" FrameEvent="" Tag="99" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="1109.0880" RightMargin="-725.0880" TopMargin="77.4400" BottomMargin="114.5600" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="10" BottomEage="20" Scale9OriginX="30" Scale9OriginY="10" Scale9Width="166" Scale9Height="112" ctype="PanelObjectData">
+            <Position X="1397.0880" Y="338.5600" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="576.0000" Y="448.0000" />
+            <PrePosition X="1.4553" Y="0.5290" />
+            <PreSize X="0.6000" Y="0.7000" />
+            <Children>
+              <NodeObjectData Name="Button_exit" ActionTag="-754673121" FrameEvent="" Tag="33" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="41.5776" RightMargin="234.4224" TopMargin="346.2856" BottomMargin="30.7144" TouchEnable="True" FontSize="24" ButtonText="" Scale9Enable="True" LeftEage="14" RightEage="14" TopEage="14" BottomEage="14" Scale9OriginX="14" Scale9OriginY="14" Scale9Width="276" Scale9Height="52" ctype="ButtonObjectData">
+                <Position X="191.5776" Y="66.2144" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="300.0000" Y="71.0000" />
+                <PrePosition X="0.3326" Y="0.1478" />
+                <PreSize X="0.5208" Y="0.1585" />
+                <Children>
+                  <NodeObjectData Name="BitmapFontLabel_3" ActionTag="140916955" FrameEvent="" Tag="82" LeftMargin="74.3287" RightMargin="63.6713" TopMargin="9.4216" BottomMargin="25.5784" LabelText="退  出" ctype="TextBMFontObjectData">
+                    <Position X="155.3287" Y="43.5784" />
+                    <Scale ScaleX="0.8000" ScaleY="0.8000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="150.0000" Y="49.0000" />
+                    <PrePosition X="0.5178" Y="0.6138" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                  </NodeObjectData>
+                </Children>
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/out-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/out-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/out-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Slider_sound_music_volume" ActionTag="-925953854" FrameEvent="" Tag="34" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="138.5568" RightMargin="257.4432" TopMargin="83.9440" BottomMargin="350.0560" TouchEnable="True" PercentInfo="100" ctype="SliderObjectData">
+                <Position X="228.5568" Y="357.0560" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="180.0000" Y="14.0000" />
+                <PrePosition X="0.3968" Y="0.7970" />
+                <PreSize X="0.3125" Y="0.0313" />
+                <BackGroundData Type="Default" Path="Default/Slider_Back.png" />
+                <ProgressBarData Type="Default" Path="Default/Slider_PressBar.png" />
+                <BallNormalData Type="MarkedSubImage" Path="res/option_btn_small.png" Plist="Plist.plist" />
+                <BallPressedData Type="MarkedSubImage" Path="res/option_btn_small_click.png" Plist="Plist.plist" />
+                <BallDisabledData Type="Default" Path="Default/SliderNode_Disable.png" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_1" ActionTag="-1783042779" FrameEvent="" Tag="35" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="48.2184" RightMargin="464.7816" TopMargin="76.0640" BottomMargin="339.9360" Scale9Width="63" Scale9Height="32" ctype="ImageViewObjectData">
+                <Position X="79.7184" Y="355.9360" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="63.0000" Y="32.0000" />
+                <PrePosition X="0.1384" Y="0.7945" />
+                <PreSize X="0.1094" Y="0.0714" />
+                <FileData Type="MarkedSubImage" Path="res/option_text_music.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_2" ActionTag="1670562805" FrameEvent="" Tag="36" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="48.1032" RightMargin="464.8968" TopMargin="141.1136" BottomMargin="274.8864" Scale9Width="63" Scale9Height="32" ctype="ImageViewObjectData">
+                <Position X="79.6032" Y="290.8864" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="63.0000" Y="32.0000" />
+                <PrePosition X="0.1382" Y="0.6493" />
+                <PreSize X="0.1094" Y="0.0714" />
+                <FileData Type="MarkedSubImage" Path="res/option_text_sfx.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Slider_sound_effect_volume" ActionTag="1370259859" FrameEvent="" Tag="37" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="138.5568" RightMargin="257.4432" TopMargin="151.8608" BottomMargin="282.1392" TouchEnable="True" PercentInfo="100" ctype="SliderObjectData">
+                <Position X="228.5568" Y="289.1392" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="180.0000" Y="14.0000" />
+                <PrePosition X="0.3968" Y="0.6454" />
+                <PreSize X="0.3125" Y="0.0313" />
+                <BackGroundData Type="Default" Path="Default/Slider_Back.png" />
+                <ProgressBarData Type="Default" Path="Default/Slider_PressBar.png" />
+                <BallNormalData Type="MarkedSubImage" Path="res/option_btn_small.png" Plist="Plist.plist" />
+                <BallPressedData Type="MarkedSubImage" Path="res/option_btn_small_click.png" Plist="Plist.plist" />
+                <BallDisabledData Type="Default" Path="Default/SliderNode_Disable.png" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_dictionary" ActionTag="-528994166" FrameEvent="" Tag="40" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="46.4792" RightMargin="404.5208" TopMargin="199.5440" BottomMargin="118.4560" TouchEnable="True" FontSize="14" ButtonText="dictionary" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="4" Scale9Height="11" ctype="ButtonObjectData">
+                <Position X="108.9792" Y="183.4560" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="125.0000" Y="130.0000" />
+                <PrePosition X="0.1892" Y="0.4095" />
+                <PreSize X="0.2170" Y="0.2902" />
+                <Children>
+                  <NodeObjectData Name="Image_7" ActionTag="-1727021716" FrameEvent="" Tag="52" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="17.0000" RightMargin="17.0000" TopMargin="9.0000" BottomMargin="35.0000" Scale9Width="91" Scale9Height="86" ctype="ImageViewObjectData">
+                    <Position X="62.5000" Y="78.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="91.0000" Y="86.0000" />
+                    <PrePosition X="0.5000" Y="0.6000" />
+                    <PreSize X="0.7280" Y="0.6615" />
+                    <FileData Type="MarkedSubImage" Path="res/option_buyubaike.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="BitmapFontLabel_9" ActionTag="-1703887772" FrameEvent="" Tag="88" LeftMargin="11.8061" RightMargin="12.1939" TopMargin="80.1159" BottomMargin="0.8841" LabelText="百 科" ctype="TextBMFontObjectData">
+                    <Position X="62.3061" Y="25.3841" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="126.0000" Y="49.0000" />
+                    <PrePosition X="0.4984" Y="0.1953" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                  </NodeObjectData>
+                </Children>
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" />
+                <PressedFileData Type="MarkedSubImage" Path="res/btn_blue_click.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/btn_blue.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_5" ActionTag="-1830883096" FrameEvent="" Tag="50" PercentWidthEnable="True" HorizontalEdge="BothEdge" VerticalEdge="TopEdge" BottomMargin="402.0000" Scale9Enable="True" LeftEage="14" RightEage="14" TopEage="14" BottomEage="14" Scale9OriginX="14" Scale9OriginY="14" Scale9Width="4" Scale9Height="29" ctype="ImageViewObjectData">
+                <Position X="288.0000" Y="448.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="576.0000" Y="46.0000" />
+                <PrePosition X="0.5000" Y="1.0000" />
+                <PreSize X="1.0000" Y="0.1198" />
+                <FileData Type="MarkedSubImage" Path="res/gift_tile_bg.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_6" ActionTag="189332442" FrameEvent="" Tag="51" HorizontalEdge="BothEdge" VerticalEdge="TopEdge" LeftMargin="250.5000" RightMargin="250.5000" TopMargin="4.4800" BottomMargin="405.5200" Scale9Width="75" Scale9Height="38" ctype="ImageViewObjectData">
+                <Position X="288.0000" Y="443.5200" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="75.0000" Y="38.0000" />
+                <PrePosition X="0.5000" Y="0.9900" />
+                <PreSize X="0.1302" Y="0.0848" />
+                <FileData Type="MarkedSubImage" Path="res/option_text_option.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_setting_close" ActionTag="441818671" FrameEvent="" Tag="43" HorizontalEdge="RightEdge" VerticalEdge="TopEdge" LeftMargin="526.6290" RightMargin="-24.6290" TopMargin="-15.6913" BottomMargin="389.6913" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="74" Scale9Height="74" ctype="ButtonObjectData">
+                <Position X="563.6290" Y="426.6913" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="74.0000" Y="74.0000" />
+                <PrePosition X="0.9785" Y="0.9524" />
+                <PreSize X="0.1285" Y="0.1927" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/rank_btn_close_gray.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/rank_btn_close_clcik.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/rank_btn_close.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_help" ActionTag="-951590799" FrameEvent="" Tag="54" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="210.3512" RightMargin="240.6488" TopMargin="199.6784" BottomMargin="118.3216" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="4" Scale9Height="11" ctype="ButtonObjectData">
+                <Position X="272.8512" Y="183.3216" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="125.0000" Y="130.0000" />
+                <PrePosition X="0.4737" Y="0.4092" />
+                <PreSize X="0.2170" Y="0.2902" />
+                <Children>
+                  <NodeObjectData Name="BitmapFontLabel_10" ActionTag="-1796710611" FrameEvent="" Tag="89" LeftMargin="47.4482" RightMargin="48.5518" TopMargin="22.8587" BottomMargin="58.1413" LabelText="?" ctype="TextBMFontObjectData">
+                    <Position X="61.9482" Y="82.6413" />
+                    <Scale ScaleX="1.5000" ScaleY="1.5000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="29.0000" Y="49.0000" />
+                    <PrePosition X="0.4956" Y="0.6357" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="BitmapFontLabel_11" ActionTag="374579555" FrameEvent="" Tag="90" LeftMargin="11.5007" RightMargin="12.4993" TopMargin="73.5003" BottomMargin="7.4997" LabelText="帮 助" ctype="TextBMFontObjectData">
+                    <Position X="62.0007" Y="31.9997" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="126.0000" Y="49.0000" />
+                    <PrePosition X="0.4960" Y="0.2462" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                  </NodeObjectData>
+                </Children>
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" />
+                <PressedFileData Type="MarkedSubImage" Path="res/btn_blue_click.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/btn_blue.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Panel_set_win_size" ActionTag="1595443902" FrameEvent="" Tag="72" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="357.5232" RightMargin="18.4768" TopMargin="68.1632" BottomMargin="29.8368" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+                <Position X="357.5232" Y="29.8368" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="200.0000" Y="350.0000" />
+                <PrePosition X="0.6207" Y="0.0666" />
+                <PreSize X="0.3472" Y="0.7813" />
+                <Children>
+                  <NodeObjectData Name="Button_480x320" ActionTag="-344172092" FrameEvent="" Tag="73" LeftMargin="1.1689" RightMargin="-1.1689" TopMargin="6.6417" BottomMargin="293.3583" TouchEnable="True" FontSize="20" ButtonText="" LeftEage="20" RightEage="20" TopEage="6" BottomEage="6" Scale9OriginX="20" Scale9OriginY="6" Scale9Width="158" Scale9Height="46" ctype="ButtonObjectData">
+                    <Position X="101.1689" Y="318.3583" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="200.0000" Y="50.0000" />
+                    <PrePosition X="0.5058" Y="0.9096" />
+                    <PreSize X="1.0000" Y="0.1429" />
+                    <Children>
+                      <NodeObjectData Name="BitmapFontLabel_4" ActionTag="-584506931" FrameEvent="" Tag="83" LeftMargin="-131.0000" RightMargin="-131.0000" TopMargin="-4.5000" BottomMargin="5.5000" LabelText="480x320(android)" ctype="TextBMFontObjectData">
+                        <Position X="100.0000" Y="30.0000" />
+                        <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="462.0000" Y="49.0000" />
+                        <PrePosition X="0.5000" Y="0.6000" />
+                        <PreSize X="0.0000" Y="0.0000" />
+                        <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                      </NodeObjectData>
+                    </Children>
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="res/chicun-03.png" Plist="Plist.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="res/chicun-02.png" Plist="Plist.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="res/chicun-01.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Button_960x640" ActionTag="1802237904" FrameEvent="" Tag="75" LeftMargin="1.1689" RightMargin="-1.1689" TopMargin="79.0660" BottomMargin="220.9340" TouchEnable="True" FontSize="20" ButtonText="" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="6" BottomEage="6" Scale9OriginX="20" Scale9OriginY="6" Scale9Width="158" Scale9Height="46" ctype="ButtonObjectData">
+                    <Position X="101.1689" Y="245.9340" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="200.0000" Y="50.0000" />
+                    <PrePosition X="0.5058" Y="0.7027" />
+                    <PreSize X="1.0000" Y="0.1429" />
+                    <Children>
+                      <NodeObjectData Name="BitmapFontLabel_4_0" ActionTag="468814992" FrameEvent="" Tag="84" LeftMargin="-109.5000" RightMargin="-109.5000" TopMargin="-5.5001" BottomMargin="6.5001" LabelText="960x640(iphon4)" ctype="TextBMFontObjectData">
+                        <Position X="100.0000" Y="31.0001" />
+                        <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="419.0000" Y="49.0000" />
+                        <PrePosition X="0.5000" Y="0.6200" />
+                        <PreSize X="0.0000" Y="0.0000" />
+                        <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                      </NodeObjectData>
+                    </Children>
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="res/chicun-03.png" Plist="Plist.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="res/chicun-02.png" Plist="Plist.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="res/chicun-01.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Button_1228x762" ActionTag="1656438230" FrameEvent="" Tag="76" LeftMargin="1.1689" RightMargin="-1.1689" TopMargin="152.9055" BottomMargin="147.0945" TouchEnable="True" FontSize="20" ButtonText="" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="6" BottomEage="6" Scale9OriginX="20" Scale9OriginY="6" Scale9Width="158" Scale9Height="46" ctype="ButtonObjectData">
+                    <Position X="101.1689" Y="172.0945" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="200.0000" Y="50.0000" />
+                    <PrePosition X="0.5058" Y="0.4917" />
+                    <PreSize X="1.0000" Y="0.1429" />
+                    <Children>
+                      <NodeObjectData Name="BitmapFontLabel_4_0_0" ActionTag="805414618" FrameEvent="" Tag="85" LeftMargin="-85.0000" RightMargin="-85.0000" TopMargin="-4.5000" BottomMargin="5.5000" LabelText="1228x762(Hall)" ctype="TextBMFontObjectData">
+                        <Position X="100.0000" Y="30.0000" />
+                        <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="370.0000" Y="49.0000" />
+                        <PrePosition X="0.5000" Y="0.6000" />
+                        <PreSize X="0.0000" Y="0.0000" />
+                        <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                      </NodeObjectData>
+                    </Children>
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="res/chicun-03.png" Plist="Plist.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="res/chicun-02.png" Plist="Plist.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="res/chicun-01.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Button_1334x750" ActionTag="1135217177" FrameEvent="" Tag="77" LeftMargin="1.1689" RightMargin="-1.1689" TopMargin="221.2392" BottomMargin="78.7608" TouchEnable="True" FontSize="20" ButtonText="" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="6" BottomEage="6" Scale9OriginX="20" Scale9OriginY="6" Scale9Width="158" Scale9Height="46" ctype="ButtonObjectData">
+                    <Position X="101.1689" Y="103.7608" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="200.0000" Y="50.0000" />
+                    <PrePosition X="0.5058" Y="0.2965" />
+                    <PreSize X="1.0000" Y="0.1429" />
+                    <Children>
+                      <NodeObjectData Name="BitmapFontLabel_4_0_0_0" ActionTag="242911676" FrameEvent="" Tag="86" LeftMargin="-119.5000" RightMargin="-119.5000" TopMargin="-4.5000" BottomMargin="5.5000" LabelText="1334x750(iphon6)" ctype="TextBMFontObjectData">
+                        <Position X="100.0000" Y="30.0000" />
+                        <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="439.0000" Y="49.0000" />
+                        <PrePosition X="0.5000" Y="0.6000" />
+                        <PreSize X="2.1950" Y="0.9800" />
+                        <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                      </NodeObjectData>
+                    </Children>
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="res/chicun-03.png" Plist="Plist.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="res/chicun-02.png" Plist="Plist.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="res/chicun-01.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Button_fullScreen" ActionTag="-1636550718" FrameEvent="" Tag="78" LeftMargin="1.1689" RightMargin="-1.1689" TopMargin="293.4611" BottomMargin="6.5389" TouchEnable="True" FontSize="20" ButtonText="" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="6" BottomEage="6" Scale9OriginX="20" Scale9OriginY="6" Scale9Width="158" Scale9Height="46" ctype="ButtonObjectData">
+                    <Position X="101.1689" Y="31.5389" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="200.0000" Y="50.0000" />
+                    <PrePosition X="0.5058" Y="0.0901" />
+                    <PreSize X="1.0000" Y="0.1429" />
+                    <Children>
+                      <NodeObjectData Name="BitmapFontLabel_4_0_0_0_0" ActionTag="968263446" FrameEvent="" Tag="87" PositionPercentXEnabled="True" LeftMargin="12.0000" RightMargin="12.0000" TopMargin="-4.5000" BottomMargin="5.5000" LabelText="全   屏" ctype="TextBMFontObjectData">
+                        <Position X="100.0000" Y="30.0000" />
+                        <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="176.0000" Y="49.0000" />
+                        <PrePosition X="0.5000" Y="0.6000" />
+                        <PreSize X="0.8800" Y="0.9800" />
+                        <LabelBMFontFile_CNB Type="Normal" Path="fishfnt.fnt" />
+                      </NodeObjectData>
+                    </Children>
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="res/chicun-03.png" Plist="Plist.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="res/chicun-02.png" Plist="Plist.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="res/chicun-01.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                </Children>
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </NodeObjectData>
+            </Children>
+            <FileData Type="MarkedSubImage" Path="res/box_bg.png" Plist="Plist.plist" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_dictionary" ActionTag="-561892996" FrameEvent="" Tag="100" LeftMargin="-1300.0000" RightMargin="1460.0000" TopMargin="42.2519" BottomMargin="57.7481" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="10" BottomEage="20" Scale9OriginX="30" Scale9OriginY="10" Scale9Width="166" Scale9Height="112" ctype="PanelObjectData">
+            <Position X="-900.0000" Y="327.7481" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="800.0000" Y="540.0000" />
+            <PrePosition X="-0.9375" Y="0.5121" />
+            <PreSize X="0.8333" Y="0.8438" />
+            <Children>
+              <NodeObjectData Name="Image_5_0" ActionTag="-42301284" FrameEvent="" Tag="62" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" BottomMargin="494.0000" Scale9Enable="True" LeftEage="14" RightEage="14" TopEage="14" BottomEage="14" Scale9OriginX="14" Scale9OriginY="14" Scale9Width="4" Scale9Height="29" ctype="ImageViewObjectData">
+                <Position X="400.0000" Y="540.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="800.0000" Y="46.0000" />
+                <PrePosition X="0.5000" Y="1.0000" />
+                <PreSize X="1.0000" Y="0.1027" />
+                <FileData Type="MarkedSubImage" Path="res/gift_tile_bg.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_dictionary_close" ActionTag="-1252442456" FrameEvent="" Tag="63" HorizontalEdge="RightEdge" VerticalEdge="TopEdge" LeftMargin="760.6290" RightMargin="-34.6290" TopMargin="-12.6915" BottomMargin="478.6915" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="74" Scale9Height="74" ctype="ButtonObjectData">
+                <Position X="797.6290" Y="515.6915" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="74.0000" Y="74.0000" />
+                <PrePosition X="0.9970" Y="0.9550" />
+                <PreSize X="0.1285" Y="0.1927" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/rank_btn_close_gray.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/rank_btn_close_clcik.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/rank_btn_close.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="ListView_fish_card" ActionTag="-597255188" FrameEvent="" Tag="88" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" LeftMargin="8.0000" RightMargin="8.0000" TopMargin="39.2040" BottomMargin="14.7960" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="0" ItemMargin="10" VerticalType="Align_VerticalCenter" ctype="ListViewObjectData">
+                <Position X="400.0000" Y="257.7960" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="784.0000" Y="486.0000" />
+                <PrePosition X="0.5000" Y="0.4774" />
+                <PreSize X="0.9800" Y="0.9000" />
+                <SingleColor A="255" R="150" G="150" B="255" />
+                <FirstColor A="255" R="150" G="150" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_20" ActionTag="427316059" FrameEvent="" Tag="90" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="326.0000" RightMargin="326.0000" TopMargin="7.2000" BottomMargin="496.8000" Scale9Width="148" Scale9Height="36" ctype="ImageViewObjectData">
+                <Position X="400.0000" Y="540.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="1.2000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="148.0000" Y="36.0000" />
+                <PrePosition X="0.5000" Y="1.0000" />
+                <PreSize X="0.1850" Y="0.0621" />
+                <FileData Type="MarkedSubImage" Path="res/wiki_text_title.png" Plist="Plist.plist" />
+              </NodeObjectData>
+            </Children>
+            <FileData Type="MarkedSubImage" Path="res/box_bg.png" Plist="Plist.plist" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_dictionary_card_mode" ActionTag="-329042474" FrameEvent="" Tag="67" LeftMargin="-321.1132" RightMargin="1016.1132" TopMargin="96.5882" BottomMargin="108.4118" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Position X="-188.6132" Y="325.9118" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="265.0000" Y="435.0000" />
+            <PrePosition X="-0.1965" Y="0.5092" />
+            <PreSize X="0.2760" Y="0.6797" />
+            <Children>
+              <NodeObjectData Name="Image_13" ActionTag="785386775" FrameEvent="" Tag="71" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-1.5000" RightMargin="-1.5000" TopMargin="25.2735" BottomMargin="-20.2735" Scale9Enable="True" LeftEage="25" RightEage="25" TopEage="26" BottomEage="25" Scale9OriginX="25" Scale9OriginY="26" Scale9Width="26" Scale9Height="21" ctype="ImageViewObjectData">
+                <Position X="132.5000" Y="409.7265" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="268.0000" Y="430.0000" />
+                <PrePosition X="0.5000" Y="0.9419" />
+                <PreSize X="1.0113" Y="0.9885" />
+                <FileData Type="MarkedSubImage" Path="res/wiki_fishcard_bg.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_16" ActionTag="28610109" FrameEvent="" Tag="73" LeftMargin="2.3332" RightMargin="2.6668" TopMargin="244.3333" BottomMargin="-15.3333" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="10" BottomEage="20" Scale9OriginX="20" Scale9OriginY="10" Scale9Width="23" Scale9Height="22" ctype="ImageViewObjectData">
+                <Position X="132.3332" Y="87.6667" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="260.0000" Y="206.0000" />
+                <PrePosition X="0.4994" Y="0.2015" />
+                <PreSize X="0.9811" Y="0.4736" />
+                <FileData Type="MarkedSubImage" Path="res/wiki_text_bg.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Panel_4" ActionTag="-1647276917" FrameEvent="" Tag="81" LeftMargin="1.8000" RightMargin="-0.8000" TopMargin="36.0000" BottomMargin="244.0000" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                <Position X="1.8000" Y="244.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="264.0000" Y="155.0000" />
+                <PrePosition X="0.0068" Y="0.5609" />
+                <PreSize X="0.2750" Y="0.2422" />
+                <Children>
+                  <NodeObjectData Name="Image_19" ActionTag="-569234211" FrameEvent="" Tag="83" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="263.0000" RightMargin="-131.0000" FlipX="True" Scale9Width="132" Scale9Height="155" ctype="ImageViewObjectData">
+                    <Position X="263.0000" Y="77.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="132.0000" Y="155.0000" />
+                    <PrePosition X="0.9962" Y="0.5000" />
+                    <PreSize X="0.5000" Y="1.0000" />
+                    <FileData Type="MarkedSubImage" Path="res/wiki_fishcard.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_18" ActionTag="1590765430" FrameEvent="" Tag="82" PositionPercentXEnabled="True" PositionPercentYEnabled="True" RightMargin="132.0000" Scale9Width="132" Scale9Height="155" ctype="ImageViewObjectData">
+                    <Position X="0.0000" Y="77.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="132.0000" Y="155.0000" />
+                    <PrePosition X="0.0000" Y="0.5000" />
+                    <PreSize X="0.5000" Y="1.0000" />
+                    <FileData Type="MarkedSubImage" Path="res/wiki_fishcard.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_dictionary_card_fish" ActionTag="207553198" FrameEvent="" Tag="80" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="77.0000" RightMargin="77.0000" TopMargin="35.0000" BottomMargin="35.0000" Scale9Width="110" Scale9Height="85" ctype="ImageViewObjectData">
+                    <Position X="132.0000" Y="77.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="110.0000" Y="85.0000" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.4167" Y="0.5484" />
+                    <FileData Type="MarkedSubImage" Path="fish/icon_xiaochouyu.png" Plist="Fish_Plist.plist" />
+                  </NodeObjectData>
+                </Children>
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </NodeObjectData>
+              <NodeObjectData Name="Panel_5" ActionTag="-14604311" FrameEvent="" Tag="85" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.5000" RightMargin="24.5000" TopMargin="192.5000" BottomMargin="192.5000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="15" BottomEage="15" Scale9OriginX="20" Scale9OriginY="15" Scale9Width="2" Scale9Height="17" ctype="PanelObjectData">
+                <Position X="132.5000" Y="217.5000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="216.0000" Y="50.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="0.8151" Y="0.1149" />
+                <Children>
+                  <NodeObjectData Name="AtlasLabel_dictionary_fish_value" ActionTag="-551806591" FrameEvent="" Tag="87" LeftMargin="65.9892" RightMargin="15.0108" TopMargin="6.2092" BottomMargin="5.7908" CharWidth="45" CharHeight="38" LabelText="123" StartChar="." ctype="TextAtlasObjectData">
+                    <Position X="133.4892" Y="24.7908" />
+                    <Scale ScaleX="0.7000" ScaleY="0.7000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="135.0000" Y="38.0000" />
+                    <PrePosition X="0.6180" Y="0.4958" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_he.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_21" ActionTag="492174770" FrameEvent="" Tag="94" LeftMargin="-4.7502" RightMargin="126.7502" TopMargin="-25.4999" BottomMargin="-25.5001" Scale9Width="94" Scale9Height="101" ctype="ImageViewObjectData">
+                    <Position X="42.2498" Y="24.9999" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="94.0000" Y="101.0000" />
+                    <PrePosition X="0.1956" Y="0.5000" />
+                    <PreSize X="0.4352" Y="2.0200" />
+                    <FileData Type="MarkedSubImage" Path="res/bar_coin.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                </Children>
+                <FileData Type="MarkedSubImage" Path="res/wiki_value_bg.png" Plist="Plist.plist" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_12" ActionTag="1728388651" FrameEvent="" Tag="69" PositionPercentXEnabled="True" PositionPercentYEnabled="True" BottomMargin="395.0000" Scale9Enable="True" LeftEage="20" RightEage="20" Scale9OriginX="20" Scale9Width="7" Scale9Height="43" ctype="ImageViewObjectData">
+                <Position X="132.5000" Y="435.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="265.0000" Y="40.0000" />
+                <PrePosition X="0.5000" Y="1.0000" />
+                <PreSize X="1.0000" Y="0.2000" />
+                <FileData Type="MarkedSubImage" Path="res/wiki_fishname_bg1.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Text_dictionary_fish_name" ActionTag="1770043788" FrameEvent="" Tag="84" PositionPercentXEnabled="True" LeftMargin="105.0000" RightMargin="105.0000" TopMargin="5.1673" BottomMargin="403.8327" FontSize="22" LabelText="name" ctype="TextObjectData">
+                <Position X="132.5000" Y="416.8327" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="36" G="112" B="46" />
+                <Size X="55.0000" Y="26.0000" />
+                <PrePosition X="0.5000" Y="0.9582" />
+                <PreSize X="0.3434" Y="0.0529" />
+              </NodeObjectData>
+              <NodeObjectData Name="Text_dictionary_fish_describe" ActionTag="-729800438" FrameEvent="" Tag="89" LeftMargin="7.8328" RightMargin="7.1672" TopMargin="254.6655" BottomMargin="-9.6655" IsCustomSize="True" FontSize="20" LabelText="Text Labelfsdf dfdfdfdfdfdfdfdfdffddfdfdf" ctype="TextObjectData">
+                <Position X="132.8328" Y="85.3345" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="250.0000" Y="190.0000" />
+                <PrePosition X="0.5013" Y="0.1962" />
+                <PreSize X="0.9434" Y="0.4368" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_weapon_bar_mode_single" ActionTag="1572739314" FrameEvent="" Tag="95" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="-104.0507" RightMargin="864.0507" TopMargin="705.1555" BottomMargin="-165.1555" TouchEnable="True" BackColorAlpha="122" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Position X="-4.0507" Y="-165.1555" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="200.0000" Y="100.0000" />
+            <PrePosition X="-0.0042" Y="-0.2581" />
+            <PreSize X="0.2083" Y="0.1563" />
+            <Children>
+              <NodeObjectData Name="Image_bar_single" ActionTag="162884239" FrameEvent="" Tag="125" LeftMargin="9.5000" RightMargin="189.5000" TopMargin="89.5000" BottomMargin="9.5000" Scale9Width="17" Scale9Height="17" ctype="ImageViewObjectData">
+                <Position X="10.0000" Y="10.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="1.0000" Y="1.0000" />
+                <PrePosition X="0.0500" Y="0.1000" />
+                <PreSize X="0.0050" Y="0.0100" />
+                <FileData Type="MarkedSubImage" Path="number_bg.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_25" ActionTag="1771752432" FrameEvent="" Tag="111" PositionPercentXEnabled="True" LeftMargin="-300.0000" RightMargin="-300.0000" TopMargin="50.0000" Scale9Enable="True" LeftEage="33" RightEage="33" BottomEage="2" Scale9OriginX="33" Scale9Width="33" Scale9Height="44" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="0.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="800.0000" Y="50.0000" />
+                <PrePosition X="0.5000" Y="0.0000" />
+                <PreSize X="4.0000" Y="0.5000" />
+                <FileData Type="MarkedSubImage" Path="res/main_bg.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_22" ActionTag="358668935" FrameEvent="" Tag="106" PositionPercentXEnabled="True" LeftMargin="-47.0000" RightMargin="100.0000" TopMargin="26.0000" Scale9Width="147" Scale9Height="74" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="0.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="147.0000" Y="74.0000" />
+                <PrePosition X="0.5000" Y="0.0000" />
+                <PreSize X="0.7350" Y="0.7400" />
+                <FileData Type="MarkedSubImage" Path="res/middle.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_22_0" ActionTag="-139524632" FrameEvent="" Tag="107" PositionPercentXEnabled="True" LeftMargin="-47.0000" RightMargin="100.0000" TopMargin="26.0000" Scale9Width="147" Scale9Height="74" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="0.0000" />
+                <Scale ScaleX="-1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="147.0000" Y="74.0000" />
+                <PrePosition X="0.5000" Y="0.0000" />
+                <PreSize X="0.7350" Y="0.7400" />
+                <FileData Type="MarkedSubImage" Path="res/middle.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_decrease_single" ActionTag="1053444723" FrameEvent="" Tag="108" LeftMargin="-38.8916" RightMargin="168.8916" TopMargin="45.2109" BottomMargin="2.7891" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="70" Scale9Height="52" ctype="ButtonObjectData">
+                <Position X="-3.8916" Y="28.7891" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="70.0000" Y="52.0000" />
+                <PrePosition X="-0.0195" Y="0.2879" />
+                <PreSize X="0.3500" Y="0.5200" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/btn1_grey.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/btn1_click.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/btn1.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_increase_single" ActionTag="668137374" FrameEvent="" Tag="109" LeftMargin="168.1084" RightMargin="-38.1084" TopMargin="46.2109" BottomMargin="1.7891" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="70" Scale9Height="52" ctype="ButtonObjectData">
+                <Position X="203.1084" Y="27.7891" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="70.0000" Y="52.0000" />
+                <PrePosition X="1.0155" Y="0.2779" />
+                <PreSize X="0.3500" Y="0.5200" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/btn_add_grey.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/btn_add_click.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/btn_add.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Panel_7" ActionTag="-1346114316" FrameEvent="" Tag="113" LeftMargin="-271.1136" RightMargin="251.1136" TopMargin="55.0296" BottomMargin="2.9704" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="8" BottomEage="10" Scale9OriginX="7" Scale9OriginY="7" Scale9Width="3" Scale9Height="1" ctype="PanelObjectData">
+                <Position X="-271.1136" Y="2.9704" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="220.0000" Y="42.0000" />
+                <PrePosition X="-1.3556" Y="0.0297" />
+                <PreSize X="1.1000" Y="0.4200" />
+                <Children>
+                  <NodeObjectData Name="AtlasLabel_multi_single" ActionTag="1544045044" FrameEvent="" Tag="119" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="83.1982" RightMargin="91.8018" TopMargin="1.8231" BottomMargin="0.1769" CharWidth="45" CharHeight="40" LabelText="0" StartChar="." ctype="TextAtlasObjectData">
+                    <Position X="105.6982" Y="20.1769" />
+                    <Scale ScaleX="0.6500" ScaleY="0.6500" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="45.0000" Y="40.0000" />
+                    <PrePosition X="0.4804" Y="0.4804" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_white.png" />
+                  </NodeObjectData>
+                </Children>
+                <FileData Type="MarkedSubImage" Path="number_bg.png" Plist="Plist.plist" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </NodeObjectData>
+              <NodeObjectData Name="Panel_7_0" ActionTag="-374828969" FrameEvent="" Tag="115" LeftMargin="250.1360" RightMargin="-270.1360" TopMargin="55.0298" BottomMargin="2.9702" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="8" BottomEage="10" Scale9OriginX="7" Scale9OriginY="7" Scale9Width="3" Scale9Height="1" ctype="PanelObjectData">
+                <Position X="250.1360" Y="2.9702" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="220.0000" Y="42.0000" />
+                <PrePosition X="1.2507" Y="0.0297" />
+                <PreSize X="1.1000" Y="0.4200" />
+                <Children>
+                  <NodeObjectData Name="Image_10_0" ActionTag="1811208866" FrameEvent="" Tag="116" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="150.6975" RightMargin="-24.6975" TopMargin="-30.0453" BottomMargin="-28.9547" Scale9Width="94" Scale9Height="101" ctype="ImageViewObjectData">
+                    <Position X="197.6975" Y="21.5453" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="94.0000" Y="101.0000" />
+                    <PrePosition X="0.8986" Y="0.5130" />
+                    <PreSize X="0.4273" Y="2.4048" />
+                    <FileData Type="MarkedSubImage" Path="res/bar_coin.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="AtlasLabel_coin_single" ActionTag="-68883781" FrameEvent="" Tag="117" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="78.3267" RightMargin="96.6733" TopMargin="1.1105" BottomMargin="0.8895" CharWidth="45" CharHeight="40" LabelText="0" StartChar="." ctype="TextAtlasObjectData">
+                    <Position X="100.8267" Y="20.8895" />
+                    <Scale ScaleX="0.6500" ScaleY="0.6500" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="45.0000" Y="40.0000" />
+                    <PrePosition X="0.4583" Y="0.4974" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_yellow.png" />
+                  </NodeObjectData>
+                </Children>
+                <FileData Type="MarkedSubImage" Path="number_bg.png" Plist="Plist.plist" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_weapon_single" ActionTag="2007672990" FrameEvent="" Tag="120" PositionPercentXEnabled="True" VerticalEdge="BothEdge" LeftMargin="100.0000" RightMargin="100.0000" TopMargin="40.0000" BottomMargin="60.0000" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="60.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="0.0000" Y="0.0000" />
+                <PrePosition X="0.5000" Y="0.6000" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="Default" Path="Default/ImageFile.png" />
+              </NodeObjectData>
+              <NodeObjectData Name="Text_name_single" ActionTag="281169908" VisibleForFrame="False" FrameEvent="" Tag="121" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="271.5684" RightMargin="-206.5684" TopMargin="118.7790" BottomMargin="-41.7790" IsCustomSize="True" FontSize="16" LabelText="炮台图片旋转" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
+                <Position X="339.0684" Y="-30.2790" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="135.0000" Y="23.0000" />
+                <PrePosition X="1.6953" Y="-0.3028" />
+                <PreSize X="0.8438" Y="0.6571" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_weapon_bar_mode" ActionTag="412463430" FrameEvent="" Tag="20" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="500.0000" RightMargin="260.0000" TopMargin="709.6000" BottomMargin="-169.6000" TouchEnable="True" BackColorAlpha="122" ColorAngle="90.0000" Scale9Width="401" Scale9Height="79" ctype="PanelObjectData">
+            <Position X="600.0000" Y="-169.6000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="200.0000" Y="100.0000" />
+            <PrePosition X="0.6250" Y="-0.2650" />
+            <PreSize X="0.2083" Y="0.1563" />
+            <Children>
+              <NodeObjectData Name="Image_bar" ActionTag="2055702189" FrameEvent="" Tag="51" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="-16.2900" RightMargin="-184.7100" TopMargin="21.0000" Scale9Width="404" Scale9Height="82" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="0.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.2900" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="401.0000" Y="79.0000" />
+                <PrePosition X="0.5000" Y="0.0000" />
+                <PreSize X="2.0050" Y="0.7900" />
+                <Children>
+                  <NodeObjectData Name="AtlasLabel_coin" ActionTag="1280704986" FrameEvent="" Tag="63" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="200.5887" RightMargin="-24.5887" TopMargin="42.2222" BottomMargin="-3.2222" CharWidth="45" CharHeight="40" LabelText="0" StartChar="." ctype="TextAtlasObjectData">
+                    <Position X="313.0887" Y="16.7778" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="45.0000" Y="40.0000" />
+                    <PrePosition X="0.7808" Y="0.2124" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_yellow.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_10" ActionTag="-691285305" FrameEvent="" Tag="54" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="218.8950" RightMargin="136.1050" TopMargin="39.3333" BottomMargin="-6.3333" Scale9Width="94" Scale9Height="101" ctype="ImageViewObjectData">
+                    <Position X="241.8950" Y="16.6667" />
+                    <Scale ScaleX="0.6000" ScaleY="0.6000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="46.0000" Y="46.0000" />
+                    <PrePosition X="0.6032" Y="0.2110" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="MarkedSubImage" Path="res/bar_coin.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Text_name" ActionTag="759968582" FrameEvent="" Tag="65" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="228.9008" RightMargin="37.0992" TopMargin="22.1704" BottomMargin="33.8296" IsCustomSize="True" FontSize="16" LabelText="炮台图片旋转" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
+                    <Position X="296.4008" Y="45.3296" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="135.0000" Y="23.0000" />
+                    <PrePosition X="0.7392" Y="0.5738" />
+                    <PreSize X="0.8438" Y="0.6571" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="AtlasLabel_multi" ActionTag="-1279453594" FrameEvent="" Tag="66" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="48.6296" RightMargin="217.3704" TopMargin="47.7267" BottomMargin="-8.7267" CharWidth="45" CharHeight="40" LabelText="0" StartChar="." ctype="TextAtlasObjectData">
+                    <Position X="116.1296" Y="11.2733" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="45.0000" Y="40.0000" />
+                    <PrePosition X="0.2896" Y="0.1427" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_white.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Panel_1" ActionTag="-1833564802" FrameEvent="" Tag="67" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="-13.8303" RightMargin="154.8303" TopMargin="-5.1517" BottomMargin="-15.8483" TouchEnable="True" BackColorAlpha="0" ColorAngle="90.0000" ctype="PanelObjectData">
+                    <Position X="116.1697" Y="34.1517" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="260.0000" Y="100.0000" />
+                    <PrePosition X="0.2897" Y="0.4323" />
+                    <PreSize X="0.6484" Y="1.2658" />
+                    <Children>
+                      <NodeObjectData Name="Button_decrease" ActionTag="1695533418" FrameEvent="" Tag="68" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="14.6320" RightMargin="179.3680" TopMargin="18.8800" BottomMargin="17.1200" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="66" Scale9Height="64" ctype="ButtonObjectData">
+                        <Position X="47.6320" Y="49.1200" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="66.0000" Y="64.0000" />
+                        <PrePosition X="0.1832" Y="0.4912" />
+                        <PreSize X="0.2538" Y="0.6400" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <DisabledFileData Type="MarkedSubImage" Path="res/pao_decrease_disable.png" Plist="Plist.plist" />
+                        <PressedFileData Type="MarkedSubImage" Path="res/pao_decrease_click.png" Plist="Plist.plist" />
+                        <NormalFileData Type="MarkedSubImage" Path="res/pao_decrease.png" Plist="Plist.plist" />
+                      </NodeObjectData>
+                      <NodeObjectData Name="Button_increase" ActionTag="467172927" FrameEvent="" Tag="69" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="179.5240" RightMargin="14.4760" TopMargin="18.8800" BottomMargin="17.1200" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="66" Scale9Height="64" ctype="ButtonObjectData">
+                        <Position X="212.5240" Y="49.1200" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="66.0000" Y="64.0000" />
+                        <PrePosition X="0.8174" Y="0.4912" />
+                        <PreSize X="0.2538" Y="0.6400" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <DisabledFileData Type="MarkedSubImage" Path="res/pao_increase_disable.png" Plist="Plist.plist" />
+                        <PressedFileData Type="MarkedSubImage" Path="res/pao_increase_click.png" Plist="Plist.plist" />
+                        <NormalFileData Type="MarkedSubImage" Path="res/pao_increase.png" Plist="Plist.plist" />
+                      </NodeObjectData>
+                    </Children>
+                    <SingleColor A="255" R="150" G="200" B="255" />
+                    <FirstColor A="255" R="150" G="200" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </NodeObjectData>
+                </Children>
+                <FileData Type="MarkedSubImage" Path="res/barNew.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_weapon" ActionTag="1039885293" FrameEvent="" Tag="106" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="100.0000" RightMargin="100.0000" TopMargin="40.0000" BottomMargin="60.0000" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="60.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="0.0000" Y="0.0000" />
+                <PrePosition X="0.5000" Y="0.6000" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="Default" Path="Default/ImageFile.png" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Image_frozen" ActionTag="1704044956" Visible="False" FrameEvent="" Tag="92" PositionPercentXEnabled="True" PositionPercentYEnabled="True" StretchWidthEnable="True" StretchHeightEnable="True" Scale9Width="960" Scale9Height="640" ctype="ImageViewObjectData">
+            <Position X="480.0000" Y="320.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="960.0000" Y="640.0000" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="background/forzen.png" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_bacground_1" ActionTag="-995058349" FrameEvent="" Tag="75" LeftMargin="-1341.3389" RightMargin="1341.3389" TopMargin="844.0023" BottomMargin="-844.0023" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="960" Scale9Height="640" ctype="PanelObjectData">
+            <Position X="-861.3389" Y="-524.0023" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="960.0000" Y="640.0000" />
+            <PrePosition X="-0.8972" Y="-0.8188" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <Children>
+              <NodeObjectData Name="Sprite_background_1" ActionTag="513699311" FrameEvent="" Tag="77" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+                <Position X="480.0000" Y="320.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="960.0000" Y="640.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.0000" Y="1.0000" />
+                <FileData Type="Normal" Path="background/dntg_960x640.jpg" />
+              </NodeObjectData>
+              <NodeObjectData Name="Sprite_background_2" ActionTag="-1378739022" VisibleForFrame="False" FrameEvent="" Tag="96" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+                <Position X="480.0000" Y="320.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="960.0000" Y="640.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.0000" Y="1.0000" />
+                <FileData Type="Normal" Path="background/Jinchanbuyu.jpg" />
+              </NodeObjectData>
+              <NodeObjectData Name="Sprite_background_3" ActionTag="1936425706" VisibleForFrame="False" FrameEvent="" Tag="97" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+                <Position X="480.0000" Y="320.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="960.0000" Y="640.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.0000" Y="1.0000" />
+                <FileData Type="Normal" Path="background/Likuibuyu.jpg" />
+              </NodeObjectData>
+              <NodeObjectData Name="Sprite_background_4" ActionTag="-1223444974" VisibleForFrame="False" FrameEvent="" Tag="98" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+                <Position X="480.0000" Y="320.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="960.0000" Y="640.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.0000" Y="1.0000" />
+                <FileData Type="Normal" Path="background/Nazhanaohai.jpg" />
+              </NodeObjectData>
+              <NodeObjectData Name="Sprite_background_5" ActionTag="-968515232" VisibleForFrame="False" FrameEvent="" Tag="99" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+                <Position X="480.0000" Y="320.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="960.0000" Y="640.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.0000" Y="1.0000" />
+                <FileData Type="Normal" Path="background/pad_changjing07_beijing.jpg" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Button_setting" ActionTag="-174271002" FrameEvent="" Tag="30" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="878.9929" RightMargin="13.0071" TopMargin="509.2696" BottomMargin="60.7304" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="69" Scale9Height="71" ctype="ButtonObjectData">
+            <Position X="912.9929" Y="95.7304" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="68.0000" Y="70.0000" />
+            <PrePosition X="0.9510" Y="0.1496" />
+            <PreSize X="0.0708" Y="0.1094" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="MarkedSubImage" Path="res/btn-shezhi_unable.png" Plist="Plist.plist" />
+            <PressedFileData Type="MarkedSubImage" Path="res/btn-shezhi_click.png" Plist="Plist.plist" />
+            <NormalFileData Type="MarkedSubImage" Path="res/btn-shezhi.png" Plist="Plist.plist" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_bottom" ActionTag="-1332350861" FrameEvent="" Tag="99" PercentWidthEnable="True" HorizontalEdge="BothEdge" VerticalEdge="BottomEdge" TopMargin="590.0000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="50" Scale9Height="50" ctype="PanelObjectData">
+            <Position X="480.0000" Y="0.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="960.0000" Y="50.0000" />
+            <PrePosition X="0.5000" Y="0.0000" />
+            <PreSize X="1.0000" Y="0.0781" />
+            <Children>
+              <NodeObjectData Name="Image_4" ActionTag="729046029" FrameEvent="" Tag="94" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentHeightEnable="True" LeftMargin="-320.0000" RightMargin="-320.0000" Scale9Enable="True" Scale9Width="50" Scale9Height="50" ctype="ImageViewObjectData">
+                <Position X="480.0000" Y="25.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="1600.0000" Y="50.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.6667" Y="1.0000" />
+                <FileData Type="MarkedSubImage" Path="res/kuangjia.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_15" ActionTag="-1137203944" FrameEvent="" Tag="101" PositionPercentXEnabled="True" LeftMargin="20.8032" RightMargin="791.1968" TopMargin="13.6315" BottomMargin="10.3685" Scale9Width="148" Scale9Height="26" ctype="ImageViewObjectData">
+                <Position X="94.8032" Y="23.3685" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="148.0000" Y="26.0000" />
+                <PrePosition X="0.0988" Y="0.4674" />
+                <PreSize X="0.1542" Y="0.5200" />
+                <Children>
+                  <NodeObjectData Name="Text_bottom_name" ActionTag="382337277" FrameEvent="" Tag="104" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="4.0000" RightMargin="4.0000" TopMargin="1.5000" BottomMargin="1.5000" IsCustomSize="True" FontSize="20" LabelText="" ctype="TextObjectData">
+                    <Position X="74.0000" Y="13.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="140.0000" Y="23.0000" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.9459" Y="0.8846" />
+                  </NodeObjectData>
+                </Children>
+                <FileData Type="MarkedSubImage" Path="res/kuang1.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_17" ActionTag="-1835288257" FrameEvent="" Tag="102" LeftMargin="204.5531" RightMargin="607.4469" TopMargin="13.6315" BottomMargin="10.3685" Scale9Width="148" Scale9Height="26" ctype="ImageViewObjectData">
+                <Position X="278.5531" Y="23.3685" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="148.0000" Y="26.0000" />
+                <PrePosition X="0.2902" Y="0.4674" />
+                <PreSize X="0.1542" Y="0.5200" />
+                <Children>
+                  <NodeObjectData Name="AtlasLabel_bottom_coin" ActionTag="1562040775" FrameEvent="" Tag="100" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-38.5000" RightMargin="-38.5000" TopMargin="-7.0000" BottomMargin="-7.0000" CharWidth="45" CharHeight="40" LabelText="0" StartChar="." ctype="TextAtlasObjectData">
+                    <Position X="74.0000" Y="13.0000" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="45.0000" Y="40.0000" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="1.5203" Y="1.5385" />
+                    <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_yellow.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_10_0" ActionTag="-1786137274" FrameEvent="" Tag="103" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="-66.4669" RightMargin="110.4669" TopMargin="-28.6905" BottomMargin="-31.3095" Scale9Width="104" Scale9Height="86" ctype="ImageViewObjectData">
+                    <Position X="-14.4669" Y="11.6905" />
+                    <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="104.0000" Y="86.0000" />
+                    <PrePosition X="-0.0977" Y="0.4496" />
+                    <PreSize X="0.7027" Y="3.3077" />
+                    <FileData Type="MarkedSubImage" Path="res/icon_sale_coin_1.png" Plist="Plist.plist" />
+                  </NodeObjectData>
+                </Children>
+                <FileData Type="MarkedSubImage" Path="res/kuang2.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_addFishCoin" ActionTag="-1098591803" FrameEvent="" Tag="105" LeftMargin="592.4557" RightMargin="293.5443" TopMargin="7.2127" BottomMargin="2.7873" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="74" Scale9Height="40" ctype="ButtonObjectData">
+                <Position X="629.4557" Y="22.7873" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="74.0000" Y="40.0000" />
+                <PrePosition X="0.6557" Y="0.4557" />
+                <PreSize X="0.0771" Y="0.8000" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/shangfen-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/shangfen-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/shangfen-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_addFishCoinAll" ActionTag="751048437" FrameEvent="" Tag="106" LeftMargin="753.4647" RightMargin="110.5353" TopMargin="7.6281" BottomMargin="4.3719" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="96" Scale9Height="38" ctype="ButtonObjectData">
+                <Position X="801.4647" Y="23.3719" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="96.0000" Y="38.0000" />
+                <PrePosition X="0.8349" Y="0.4674" />
+                <PreSize X="0.1000" Y="0.7600" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/yijianshangfen-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/yijianshangfen-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/yijianshangfen-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_addHappyCoin" ActionTag="-1252114475" FrameEvent="" Tag="107" LeftMargin="665.7914" RightMargin="220.2086" TopMargin="7.2127" BottomMargin="2.7873" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="74" Scale9Height="40" ctype="ButtonObjectData">
+                <Position X="702.7914" Y="22.7873" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="74.0000" Y="40.0000" />
+                <PrePosition X="0.7321" Y="0.4557" />
+                <PreSize X="0.0771" Y="0.8000" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/shangfen-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/xiafen-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/xiafen-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_addHappyCoinAll" ActionTag="127176064" FrameEvent="" Tag="108" LeftMargin="846.9641" RightMargin="17.0359" TopMargin="7.6281" BottomMargin="4.3719" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="96" Scale9Height="38" ctype="ButtonObjectData">
+                <Position X="894.9641" Y="23.3719" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="96.0000" Y="38.0000" />
+                <PrePosition X="0.9323" Y="0.4674" />
+                <PreSize X="0.1000" Y="0.7600" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/yijianxiafen-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/yijianxiafen-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/yijianxiafen-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_lock_destination" ActionTag="1240482161" FrameEvent="" Tag="109" LeftMargin="388.5878" RightMargin="475.4122" TopMargin="7.5190" BottomMargin="4.4810" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="96" Scale9Height="38" ctype="ButtonObjectData">
+                <Position X="436.5878" Y="23.4810" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="96.0000" Y="38.0000" />
+                <PrePosition X="0.4548" Y="0.4696" />
+                <PreSize X="0.1000" Y="0.7600" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/suoding-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/suoding-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/suoding-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_auto_shot_close" ActionTag="-2051773974" FrameEvent="" Tag="111" LeftMargin="483.5449" RightMargin="380.4551" TopMargin="7.5190" BottomMargin="4.4810" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="96" Scale9Height="38" ctype="ButtonObjectData">
+                <Position X="531.5449" Y="23.4810" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="96.0000" Y="38.0000" />
+                <PrePosition X="0.5537" Y="0.4696" />
+                <PreSize X="0.1000" Y="0.7600" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/tingzhi-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/tingzhi-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/tingzhi-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_bottom_auto_shot_open" ActionTag="-334278147" FrameEvent="" Tag="110" LeftMargin="483.5450" RightMargin="380.4550" TopMargin="7.5190" BottomMargin="4.4810" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="96" Scale9Height="38" ctype="ButtonObjectData">
+                <Position X="531.5450" Y="23.4810" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="96.0000" Y="38.0000" />
+                <PrePosition X="0.5537" Y="0.4696" />
+                <PreSize X="0.1000" Y="0.7600" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/zidong-03.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/zidong-02.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/zidong-01.png" Plist="Plist.plist" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_help" ActionTag="1385669875" FrameEvent="" Tag="112" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="39.0001" RightMargin="38.9999" TopMargin="56.4998" BottomMargin="114.5002" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="882" Scale9Height="469" ctype="PanelObjectData">
+            <Position X="480.0001" Y="349.0002" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="882.0000" Y="469.0000" />
+            <PrePosition X="0.5000" Y="0.5453" />
+            <PreSize X="0.9187" Y="0.7328" />
+            <Children>
+              <NodeObjectData Name="Button_help_close" ActionTag="894896407" FrameEvent="" Tag="113" LeftMargin="828.5992" RightMargin="-20.5992" TopMargin="8.5317" BottomMargin="386.4683" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="74" Scale9Height="74" ctype="ButtonObjectData">
+                <Position X="865.5992" Y="423.4683" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="74.0000" Y="74.0000" />
+                <PrePosition X="0.9814" Y="0.9029" />
+                <PreSize X="0.0839" Y="0.1578" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="res/rank_btn_close_gray.png" Plist="Plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="res/rank_btn_close_clcik.png" Plist="Plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="res/rank_btn_close.png" Plist="Plist.plist" />
+              </NodeObjectData>
+            </Children>
+            <FileData Type="Normal" Path="help.png" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Image_cur" ActionTag="-973747379" FrameEvent="" Tag="91" LeftMargin="425.7708" RightMargin="488.2292" TopMargin="662.1575" BottomMargin="-68.1575" Scale9Width="64" Scale9Height="64" ctype="ImageViewObjectData">
+            <Position X="448.7708" Y="-45.1575" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="46.0000" Y="46.0000" />
+            <PrePosition X="0.4675" Y="-0.0706" />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="MarkedSubImage" Path="res/cursor.png" Plist="Plist.plist" />
+          </NodeObjectData>
+        </Children>
+      </ObjectData>
+    </Content>
+    <CameraPosition ValueX="0.0000" ValueY="5.0000" ValueZ="-1.0000" />
+    <CameraRotation ValueX="0.0000" ValueY="0.0000" ValueZ="0.0000" />
+  </Content>
+</GameProjectFile>

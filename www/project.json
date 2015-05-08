@@ -12,6 +12,9 @@
 
     "jsList" : [
         "src/resource.js",
-        "src/app.js"
+        "src/app.js",
+        "src/Helper.js",
+        "src/GlobalVariables.js",
+        "src/FitSolution.js"
     ]
 }

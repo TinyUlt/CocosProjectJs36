@@ -1,0 +1,71 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="SelectScene" ID="9948707b-998b-479b-bda3-d169ecc6be4b" Version="2.2.1.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" FrameEvent="" Tag="8" RightMargin="-960.0000" TopMargin="-640.0000" ctype="SingleNodeObjectData">
+        <Position X="0.0000" Y="0.0000" />
+        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+        <AnchorPoint />
+        <CColor A="255" R="255" G="255" B="255" />
+        <Size X="960.0000" Y="640.0000" />
+        <PrePosition X="0.0000" Y="0.0000" />
+        <PreSize X="0.0000" Y="0.0000" />
+        <Children>
+          <NodeObjectData Name="Panel_demo" ActionTag="-466107055" FrameEvent="" Tag="79" LeftMargin="0.0005" RightMargin="759.9995" TopMargin="647.1679" BottomMargin="-207.1679" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Position X="0.0005" Y="-207.1679" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="200.0000" Y="200.0000" />
+            <PrePosition X="0.0000" Y="-0.3237" />
+            <PreSize X="0.0000" Y="0.0000" />
+            <Children>
+              <NodeObjectData Name="Button_select" ActionTag="745992169" FrameEvent="" Tag="80" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.0000" RightMargin="50.0000" TopMargin="50.0000" BottomMargin="50.0000" TouchEnable="True" FontSize="14" ButtonText="Button" Scale9Enable="True" Scale9Width="46" Scale9Height="36" ctype="ButtonObjectData">
+                <Position X="100.0000" Y="100.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="100.0000" Y="100.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="0.5000" Y="0.5000" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" />
+                <PressedFileData Type="Default" Path="Default/Button_Press.png" />
+                <NormalFileData Type="Default" Path="Default/Button_Normal.png" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="ListView_select_scene" ActionTag="214160481" FrameEvent="" Tag="78" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" TopMargin="192.0000" BottomMargin="192.0000" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="0" ItemMargin="10" VerticalType="Align_VerticalCenter" ctype="ListViewObjectData">
+            <Position X="480.0000" Y="320.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="960.0000" Y="256.0000" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="1.0000" Y="0.4000" />
+            <SingleColor A="255" R="150" G="150" B="255" />
+            <FirstColor A="255" R="150" G="150" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Text_1" ActionTag="-1871483064" FrameEvent="" Tag="81" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="408.0000" RightMargin="408.0000" TopMargin="75.0000" BottomMargin="523.0000" FontSize="36" LabelText="选择场景" ctype="TextObjectData">
+            <Position X="480.0000" Y="544.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="144.0000" Y="42.0000" />
+            <PrePosition X="0.5000" Y="0.8500" />
+            <PreSize X="0.0948" Y="0.0359" />
+          </NodeObjectData>
+        </Children>
+      </ObjectData>
+    </Content>
+    <CameraPosition ValueX="0.0000" ValueY="5.0000" ValueZ="-1.0000" />
+    <CameraRotation ValueX="0.0000" ValueY="0.0000" ValueZ="0.0000" />
+  </Content>
+</GameProjectFile>

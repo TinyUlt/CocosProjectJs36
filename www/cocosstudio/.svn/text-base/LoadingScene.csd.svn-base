@@ -1,0 +1,89 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="LoadingScene" ID="b93ec4d3-c414-4b34-9951-c9bde6a80349" Version="2.2.1.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" FrameEvent="" Tag="4" RightMargin="-960.0000" TopMargin="-640.0000" ctype="SingleNodeObjectData">
+        <Position X="0.0000" Y="0.0000" />
+        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+        <AnchorPoint />
+        <CColor A="255" R="255" G="255" B="255" />
+        <Size X="960.0000" Y="640.0000" />
+        <PrePosition X="0.0000" Y="0.0000" />
+        <PreSize X="0.0000" Y="0.0000" />
+        <Children>
+          <NodeObjectData Name="Panel_3" ActionTag="1447313019" FrameEvent="" Tag="77" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Enable="True" Scale9Width="128" Scale9Height="96" ctype="PanelObjectData">
+            <Position X="480.0000" Y="320.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="960.0000" Y="640.0000" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="background/ditu3.png" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+          <NodeObjectData Name="Text_2" ActionTag="789195280" FrameEvent="" Tag="82" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="408.0000" RightMargin="408.0000" TopMargin="75.0000" BottomMargin="523.0000" FontSize="36" LabelText="加载界面" ctype="TextObjectData">
+            <Position X="480.0000" Y="544.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="144.0000" Y="42.0000" />
+            <PrePosition X="0.5000" Y="0.8500" />
+            <PreSize X="0.0948" Y="0.0359" />
+          </NodeObjectData>
+          <NodeObjectData Name="Panel_loading_circle" ActionTag="1118624339" FrameEvent="" Tag="74" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="380.0000" RightMargin="380.0000" TopMargin="220.0000" BottomMargin="220.0000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Position X="480.0000" Y="320.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="200.0000" Y="200.0000" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="0.2083" Y="0.3125" />
+            <Children>
+              <NodeObjectData Name="AtlasLabel_loading" ActionTag="-5230760" FrameEvent="" Tag="75" LeftMargin="67.8703" RightMargin="90.1297" TopMargin="81.2348" BottomMargin="78.7652" CharWidth="42" CharHeight="40" LabelText="0" StartChar="." ctype="TextAtlasObjectData">
+                <Position X="88.8703" Y="98.7652" />
+                <Scale ScaleX="0.8000" ScaleY="0.8000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="42.0000" Y="40.0000" />
+                <PrePosition X="0.4444" Y="0.4938" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <LabelAtlasFileImage_CNB Type="Normal" Path="atlas/atlas_blue.png" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_3" ActionTag="1001836152" FrameEvent="" Tag="73" LeftMargin="5.0000" RightMargin="5.0000" TopMargin="5.0000" BottomMargin="5.0000" Scale9Width="190" Scale9Height="190" ctype="ImageViewObjectData">
+                <Position X="100.0000" Y="100.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="190.0000" Y="190.0000" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="0.9500" Y="0.9500" />
+                <FileData Type="MarkedSubImage" Path="res/quandi.png" Plist="Plist.plist" />
+              </NodeObjectData>
+              <NodeObjectData Name="Image_11" ActionTag="-2106495476" FrameEvent="" Tag="76" LeftMargin="110.7498" RightMargin="43.2502" TopMargin="79.5000" BottomMargin="74.5000" Scale9Width="47" Scale9Height="39" ctype="ImageViewObjectData">
+                <Position X="133.7498" Y="97.5000" />
+                <Scale ScaleX="0.8000" ScaleY="0.8000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="46.0000" Y="46.0000" />
+                <PrePosition X="0.6687" Y="0.4875" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="MarkedSubImage" Path="res/percentage.png" Plist="Plist.plist" />
+              </NodeObjectData>
+            </Children>
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </NodeObjectData>
+        </Children>
+      </ObjectData>
+    </Content>
+    <CameraPosition ValueX="0.0000" ValueY="5.0000" ValueZ="-1.0000" />
+    <CameraRotation ValueX="0.0000" ValueY="0.0000" ValueZ="0.0000" />
+  </Content>
+</GameProjectFile>
